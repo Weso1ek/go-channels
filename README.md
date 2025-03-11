@@ -1,2 +1,2 @@
 # go-channels
-Test golang aplication
+Test golang aplication for channels and go routines
